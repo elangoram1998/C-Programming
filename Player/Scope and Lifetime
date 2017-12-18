@@ -1,0 +1,14 @@
+#include<stdio.h>
+int count=20;
+int main()
+{
+int count=10;
+int c,a=30;
+c=a+count;
+printf("%d",c);
+func();
+}
+int func()
+{
+printf("%d",count);
+}
