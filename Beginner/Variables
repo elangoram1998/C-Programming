@@ -1,0 +1,7 @@
+#include<stdio.h>
+int main()
+{
+int runs=18426,matches=463;
+double average=44.83;
+char name[50]="Sachin Tendulkar",nick[50]="Little Master";
+}
